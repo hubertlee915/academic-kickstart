@@ -10,31 +10,22 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Computer Vision",
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Computer Science"
+  institution = "University of Rochester"
+  year = "2018 - present"
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "B.Eng in Software Engineering"
+  institution = "Wuhan University"
+  year = "2014 - 2018"
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Zhiheng Li is a first-year PhD student at University of Rochester, advised by [Prof. Chenliang Xu](https://www.cs.rochester.edu/u/cxu22/). His research interest is computer vision and deep learning. Before coming to U of R, he received his bachelor's degree at Wuhan University. Here is his [CV](https://www.cs.rochester.edu/u/zli82/files/Zhiheng_CV.pdf).
