@@ -1,17 +1,12 @@
 +++
-title = "Publications"
-date = 2017-01-01T00:00:00
-
-# List format.
-#   0 = Simple
-#   1 = Detailed
-#   2 = APA
-#   3 = MLA
-#   4 = Stream
-list_format = 3
-
+title = "Lip Movements Generation at a Glance"
+date = 2018-09-01
+authors = ["Lele Chen", "Zhiheng Li", "Ross K Maddox", "Zhiyao Duan", "Chenliang Xu"]
+publication_types = ["1"]
+abstract = ""
+selected = false
+publication = "*The European Conference on Computer Vision (ECCV)*"
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
-caption = ""
+image = "depp.jpg"
 +++
