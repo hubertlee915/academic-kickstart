@@ -63,7 +63,7 @@ enableGitInfo = false
   avatar = "zhiheng_li_128.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "{fn}.{ln}@rochester.edu (fn = zhiheng, ln = li)"
+  email = "zhiheng.li --at-- rochester.edu"
   address = "3209 Wegmans Hall, 250 Hutchison Rd, Rochester, NY"
 
   phone = ""
